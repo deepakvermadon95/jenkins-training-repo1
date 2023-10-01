@@ -1,2 +1,2 @@
-echo date
-echo cal
+echo $date
+echo $cal
